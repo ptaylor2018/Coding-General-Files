@@ -2,7 +2,7 @@
   "extensions": {
     "mikaeljorhult.brackets-autoprefixer": true,
     "enricodangelo.base16-railscasts-dark-theme": true,
-    "beautify.io": true,
+    "brackets-beautify": true,
     "io.brackets.color-palette": true,
     "mikailcolak.brackets-color-picker": true,
     "brackets-css-color-preview": true,
@@ -21,6 +21,6 @@
     "fede91.brackets-preferences-ui": true,
     "brackets.swatcher": true,
     "mikaeljorhult.brackets-todo": true
-  }
 
+  }
 }
