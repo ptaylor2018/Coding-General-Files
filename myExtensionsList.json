@@ -3,17 +3,18 @@
     "mikaeljorhult.brackets-autoprefixer": true,
     "enricodangelo.base16-railscasts-dark-theme": true,
     "beautify.io": true,
-    "sprintr.color-palette": true,
+    "io.brackets.color-palette": true,
     "mikailcolak.brackets-color-picker": true,
     "brackets-css-color-preview": true,
     "zaggino.brackets-git": true,
-    "ivogabe.icons": false,
     "technet.clipbox": true,
     "brackets-emmet": true,
     "milosh86.extensions-bulk-installer": false,
     "brackets-html-wrapper": true,
+    "brackets-indent-guides": true,
     "brackets-minify": true,
     "dnbard.lorem-pixel": true,
+    "brackets-material-dark-theme": true,
     "brackets-minimap": true,
     "alemonteiro.brackets-move-files": true,
     "brackets-open-in-linux-terminal": true,
@@ -21,4 +22,5 @@
     "brackets.swatcher": true,
     "mikaeljorhult.brackets-todo": true
   }
+
 }
