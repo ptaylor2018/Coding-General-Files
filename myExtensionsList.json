@@ -13,6 +13,7 @@
     "brackets-html-wrapper": true,
     "brackets-indent-guides": true,
     "brackets-minify": true,
+    "camden.jshint": true,
     "dnbard.lorem-pixel": true,
     "gruehle.markdown-preview": true,
     "alanhohn.markdown-toolbar": true,
@@ -21,8 +22,8 @@
     "alemonteiro.brackets-move-files": true,
     "brackets-open-in-linux-terminal": true,
     "fede91.brackets-preferences-ui": true,
+    "brackets-sasshints": true,
     "brackets.swatcher": true,
     "mikaeljorhult.brackets-todo": true
   }
-
 }
